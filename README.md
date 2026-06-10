@@ -1,4 +1,6 @@
-# 👋 你好，我是 Helioswei
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F5AF0&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Helioswei+%F0%9F%91%8B;C%2B%2B+Developer;Graphics+Enthusiast;Kotlin+Learner)
+
+![visitors](https://komarev.com/ghpvc/?username=Helioswei&color=7F5AF0&style=flat-square&label=%20%20访客数:%20)
 
 > 一个热爱图形学的 C++ 开发者，偶尔写写 Kotlin，时不时被 AI 吸引注意力。
 
