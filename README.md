@@ -4,7 +4,7 @@
 
 > 一个热爱图形学的 C++ 开发者，偶尔写写 Kotlin，时不时被 AI 吸引注意力。
 
-📍 坐标上海 &nbsp;|&nbsp; 📝 [我的博客](https://helioswei.github.io/)
+📍 坐标上海 &nbsp;|&nbsp; 📝 [我的博客](https://aigcwei.cn/)
 
 ---
 
@@ -16,6 +16,13 @@
 - 🤖 对 **AI/AIGC** 充满好奇，Stable Diffusion、ComfyUI、视频生成……什么都想玩一玩
 - 📚 相信「输出是最好的学习」，喜欢把学到的东西写成教程和笔记
 - 🛠️ Vim 重度用户，到哪儿第一件事就是配 Vim
+
+## 🌐 我的网站
+
+|站点|地址|内容|
+|---|---|---|
+|📝 博客 + 教程 | [aigcwei.cn](https://aigcwei.cn/)|Helios's AILab：博客文章流 + 技术笔记库 + 四线技术教程（Kotlin / LVGL / ESP32 电子墨水屏 / SF32）|
+|🧳 旅行 | [life.aigcwei.cn](https://life.aigcwei.cn/)|家庭旅行规划与记录|
 
 ## 🛠️ 技术栈
 
@@ -44,7 +51,7 @@
 
 |项目|简介|
 |---|---|
-|🎓 [kotlin-tutorial](https://helioswei.github.io/kotlin-tutorial/)|Kotlin Android 系统教程，16 章，含导师讲解、C++ 对比、互动练习|
+|🎓 [Helios 技术教程](https://aigcwei.cn/learn/)|四线系统教程：Kotlin/Android、LVGL 嵌入式图形、ESP32 电子墨水屏阅读器、SF32 电子书移植，各 16 章，含导师讲解、代码高亮与互动练习|
 |🎙️ [hermes-voice](https://github.com/Helioswei/hermes-voice)|Mac 上通过语音和 AI Agent 对话，类似自制 Siri|
 |⚙️ [configvim](https://github.com/Helioswei/configvim)|跨平台 Vim 配置脚本，专为 C++ 开发定制|
 |📖 [booknotes](https://github.com/Helioswei/booknotes)|C++ 经典书籍的学习笔记|
