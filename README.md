@@ -21,7 +21,7 @@
 
 |站点|地址|内容|
 |---|---|---|
-|📝 博客 + 教程 | [aigcwei.cn](https://aigcwei.cn/)|Helios's AILab：博客文章流 + 技术笔记库 + 四线技术教程（Kotlin / LVGL / ESP32 电子墨水屏 / SF32）|
+|📝 博客 + 教程 | [aigcwei.cn](https://aigcwei.cn/)|Helios's AILab：博客文章流 + 技术笔记库 + 六线技术教程（Kotlin / LVGL / ESP32 电子墨水屏 / SF32 / C++ / 图像与视觉）|
 |🧳 旅行 | [life.aigcwei.cn](https://life.aigcwei.cn/)|家庭旅行规划与记录|
 
 ## 🛠️ 技术栈
@@ -51,7 +51,7 @@
 
 |项目|简介|
 |---|---|
-|🎓 [Helios 技术教程](https://aigcwei.cn/learn/)|四线系统教程：Kotlin/Android、LVGL 嵌入式图形、ESP32 电子墨水屏阅读器、SF32 电子书移植，各 16 章，含导师讲解、代码高亮与互动练习|
+|🎓 [Helios 技术教程](https://aigcwei.cn/learn/)|六线系统教程：Kotlin/Android、LVGL 嵌入式图形、ESP32 电子墨水屏阅读器、SF32 电子书移植、C++ 工程实践、图像与视觉实战，各 16 章，含导师讲解、代码高亮与互动练习|
 |🎙️ [hermes-voice](https://github.com/Helioswei/hermes-voice)|Mac 上通过语音和 AI Agent 对话，类似自制 Siri|
 |⚙️ [configvim](https://github.com/Helioswei/configvim)|跨平台 Vim 配置脚本，专为 C++ 开发定制|
 |📖 [booknotes](https://github.com/Helioswei/booknotes)|C++ 经典书籍的学习笔记|
