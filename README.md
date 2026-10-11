@@ -23,6 +23,12 @@
 |---|---|---|
 |📝 博客 + 教程 | [aigcwei.cn](https://aigcwei.cn/)|Helios's AILab：博客文章流 + 技术笔记库 + 八线技术教程（Kotlin / LVGL / ESP32 电子墨水屏 / SF32 / C++ / 图像与视觉 / C++ 底层原理 / FFmpeg）|
 
+## 📮 公众号
+
+<img src="https://assets.aigcwei.cn/wechat-qr.jpg" width="172" alt="公众号 AIGCWorld" />
+
+扫码关注 **AIGCWorld** —— AIGC 应用、AI 绘图与视频、工具实践的科普与实践记录。
+
 ## 🛠️ 技术栈
 
 **主力语言**
