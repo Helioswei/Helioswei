@@ -22,6 +22,7 @@
 |站点|地址|内容|
 |---|---|---|
 |📝 博客 + 教程 | [aigcwei.cn](https://aigcwei.cn/)|Helios's AILab：博客文章流 + 技术笔记库 + 八线技术教程（Kotlin / LVGL / ESP32 电子墨水屏 / SF32 / C++ / 图像与视觉 / C++ 底层原理 / FFmpeg）|
+|📚 阅读站 | [better.aigcwei.cn](https://better.aigcwei.cn/)|《高性价比人生指南》国内可访问的镜像站（第三方内容、正文未改动）+ MCP 服务入口：约 700 条循证建议，可全文检索、可让 AI 先查再答|
 
 ## 📮 公众号
 
