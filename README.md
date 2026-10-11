@@ -56,11 +56,11 @@
 
 |项目|简介|
 |---|---|
-|🎓 [Helios 技术教程](https://aigcwei.cn/learn/)|八线系统教程：Kotlin/Android、LVGL 嵌入式图形、ESP32 电子墨水屏阅读器、SF32 电子书移植、C++ 工程实践、图像与视觉实战、C++ 底层原理、FFmpeg 音视频实战，各 16 章，含导师讲解、代码高亮与互动练习|
-|🎙️ [harness-voice](https://github.com/Helioswei/harness-voice)|Mac 上通过语音和 AI Agent 对话，类似自制 Siri|
-|⚙️ [configvim](https://github.com/Helioswei/configvim)|跨平台 Vim 配置脚本，专为 C++ 开发定制|
-|📖 [booknotes](https://github.com/Helioswei/booknotes)|C++ 经典书籍的学习笔记|
-|🎨 [designPatterns](https://github.com/Helioswei/designPatterns)|用 C++ 实现的设计模式集合|
+|🤖 [HowToLiveBetter-Kit](https://github.com/Helioswei/HowToLiveBetter-Kit)|《高性价比人生指南》的 MCP 服务 + 国内可访问的镜像站：让 AI 先查这本书近 700 条循证建议再回答，并注明出自第几节第几条|
+|📖 [bookfetch](https://github.com/Helioswei/bookfetch)|多源电子书查找与下载器（CLI + 桌面端）：中文古籍、公版书、网文，支持离线翻译|
+|🎙️ [harness-voice](https://github.com/Helioswei/harness-voice)|macOS 唤醒词语音前端：喊一声「小九」唤醒，语音转文字后交给 Hermes 或任意 OpenAI 兼容后端|
+|⚡ [fastkeel](https://github.com/Helioswei/fastkeel)|pip 即用的 FastAPI 后端底座：用户认证 / 搭子社交 / 订阅支付 / 定时任务 / LLM 集成（PyPI 上 `pip install fastkeel`）|
+|🧰 [devkit](https://github.com/Helioswei/devkit)|跨机器同步的开发者工具集：Vim 配置、嵌入式 CLI、AOSP 工作流|
 
 ## 📊 GitHub Stats
 
